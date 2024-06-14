@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INDZ2", "INDZ2\INDZ2.csproj", "{873C6634-BCAF-4C7F-9500-4B55BC94240B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{873C6634-BCAF-4C7F-9500-4B55BC94240B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873C6634-BCAF-4C7F-9500-4B55BC94240B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873C6634-BCAF-4C7F-9500-4B55BC94240B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873C6634-BCAF-4C7F-9500-4B55BC94240B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E06680D4-4A72-431E-A461-0C6FE304088E}
+	EndGlobalSection
+EndGlobal

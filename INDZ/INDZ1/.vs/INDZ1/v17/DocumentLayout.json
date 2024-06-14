@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\INDZ\\INDZ1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE7CC33-CA06-4E1B-AFA5-3556A77DC8C5}|INDZ1\\INDZ1.csproj|g:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\wpf\\indz\\indz1\\indz1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE7CC33-CA06-4E1B-AFA5-3556A77DC8C5}|INDZ1\\INDZ1.csproj|solutionrelative:indz1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE7CC33-CA06-4E1B-AFA5-3556A77DC8C5}|INDZ1\\INDZ1.csproj|g:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\wpf\\indz\\indz1\\indz1\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE7CC33-CA06-4E1B-AFA5-3556A77DC8C5}|INDZ1\\INDZ1.csproj|solutionrelative:indz1\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE7CC33-CA06-4E1B-AFA5-3556A77DC8C5}|INDZ1\\INDZ1.csproj|g:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\wpf\\indz\\indz1\\indz1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CBE7CC33-CA06-4E1B-AFA5-3556A77DC8C5}|INDZ1\\INDZ1.csproj|solutionrelative:indz1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE7CC33-CA06-4E1B-AFA5-3556A77DC8C5}|INDZ1\\INDZ1.csproj|g:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\wpf\\indz\\indz1\\indz1\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CBE7CC33-CA06-4E1B-AFA5-3556A77DC8C5}|INDZ1\\INDZ1.csproj|solutionrelative:indz1\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 366,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\INDZ\\INDZ1\\INDZ1\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "INDZ1\\Window1.xaml.cs",
+              "ToolTip": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\INDZ\\INDZ1\\INDZ1\\Window1.xaml.cs",
+              "RelativeToolTip": "INDZ1\\Window1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:56:45.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\INDZ\\INDZ1\\INDZ1\\Window1.xaml",
+              "RelativeDocumentMoniker": "INDZ1\\Window1.xaml",
+              "ToolTip": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\INDZ\\INDZ1\\INDZ1\\Window1.xaml",
+              "RelativeToolTip": "INDZ1\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T12:53:39.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\INDZ\\INDZ1\\INDZ1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "INDZ1\\MainWindow.xaml",
+              "ToolTip": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\INDZ\\INDZ1\\INDZ1\\MainWindow.xaml",
+              "RelativeToolTip": "INDZ1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T12:52:32.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\INDZ\\INDZ1\\INDZ1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "INDZ1\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\INDZ\\INDZ1\\INDZ1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "INDZ1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:52:31.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

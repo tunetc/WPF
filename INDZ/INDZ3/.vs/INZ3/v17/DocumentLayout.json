@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\INDZ\\INDZ3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF99A417-A825-4A93-9E6A-8DC06EB0ABB1}|INZ3\\INZ3.csproj|g:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\wpf\\indz\\indz3\\inz3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF99A417-A825-4A93-9E6A-8DC06EB0ABB1}|INZ3\\INZ3.csproj|solutionrelative:inz3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF99A417-A825-4A93-9E6A-8DC06EB0ABB1}|INZ3\\INZ3.csproj|g:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\wpf\\indz\\indz3\\inz3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF99A417-A825-4A93-9E6A-8DC06EB0ABB1}|INZ3\\INZ3.csproj|solutionrelative:inz3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 366,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\INDZ\\INDZ3\\INZ3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "INZ3\\MainWindow.xaml",
+              "ToolTip": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\INDZ\\INDZ3\\INZ3\\MainWindow.xaml",
+              "RelativeToolTip": "INZ3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T18:32:43.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\INDZ\\INDZ3\\INZ3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "INZ3\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\INDZ\\INDZ3\\INZ3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "INZ3\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:32:42.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

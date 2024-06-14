@@ -1,0 +1,40 @@
+G:\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\App.g.cs
+G:\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1_MarkupCompile.cache
+G:\WPF\Lab1\Lab1\bin\Debug\net8.0-windows\Lab1.exe
+G:\WPF\Lab1\Lab1\bin\Debug\net8.0-windows\Lab1.deps.json
+G:\WPF\Lab1\Lab1\bin\Debug\net8.0-windows\Lab1.runtimeconfig.json
+G:\WPF\Lab1\Lab1\bin\Debug\net8.0-windows\Lab1.dll
+G:\WPF\Lab1\Lab1\bin\Debug\net8.0-windows\Lab1.pdb
+G:\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1_MarkupCompile.lref
+G:\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\MainWindow.baml
+G:\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.g.resources
+G:\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+G:\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.AssemblyInfoInputs.cache
+G:\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.AssemblyInfo.cs
+G:\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.csproj.CoreCompileInputs.cache
+G:\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.dll
+G:\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\refint\Lab1.dll
+G:\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.pdb
+G:\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.genruntimeconfig.cache
+G:\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\ref\Lab1.dll
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\bin\Debug\net8.0-windows\Lab1.exe
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\bin\Debug\net8.0-windows\Lab1.deps.json
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\bin\Debug\net8.0-windows\Lab1.runtimeconfig.json
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\bin\Debug\net8.0-windows\Lab1.dll
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\bin\Debug\net8.0-windows\Lab1.pdb
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\App.g.cs
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1_MarkupCompile.cache
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1_MarkupCompile.lref
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\MainWindow.baml
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.g.resources
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.AssemblyInfoInputs.cache
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.AssemblyInfo.cs
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.csproj.CoreCompileInputs.cache
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.dll
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\refint\Lab1.dll
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.pdb
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.genruntimeconfig.cache
+G:\3 курс\2 семестр\WPF\Lab1\Lab1\obj\Debug\net8.0-windows\ref\Lab1.dll

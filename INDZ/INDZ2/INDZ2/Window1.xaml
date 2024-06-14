@@ -1,0 +1,15 @@
+﻿<Window x:Class="INDZ2.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window1" Height="250" Width="200">
+    <Grid>
+        <StackPanel>
+            <RadioButton Name="RadioButton1" Content="1" Checked="RadioButton_Checked"/>
+            <RadioButton Name="RadioButton2" Content="2" Checked="RadioButton_Checked"/>
+            <RadioButton Name="RadioButton3" Content="3" Checked="RadioButton_Checked"/>
+            <RadioButton Name="RadioButton4" Content="4" Checked="RadioButton_Checked"/>
+            <RadioButton Name="RadioButton5" Content="5" Checked="RadioButton_Checked"/>
+            <RadioButton Name="RadioButton6" Content="6" Checked="RadioButton_Checked"/>
+        </StackPanel>
+    </Grid>
+</Window>

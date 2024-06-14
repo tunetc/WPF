@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1E7B8D-5C1C-48C0-A20D-33F6F7BA93DF}|Lab1\\Lab1.csproj|g:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\wpf\\lab1\\lab1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1E7B8D-5C1C-48C0-A20D-33F6F7BA93DF}|Lab1\\Lab1.csproj|solutionrelative:lab1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1E7B8D-5C1C-48C0-A20D-33F6F7BA93DF}|Lab1\\Lab1.csproj|g:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\wpf\\lab1\\lab1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC1E7B8D-5C1C-48C0-A20D-33F6F7BA93DF}|Lab1\\Lab1.csproj|solutionrelative:lab1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1E7B8D-5C1C-48C0-A20D-33F6F7BA93DF}|Lab1\\Lab1.csproj|g:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\wpf\\lab1\\lab1\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC1E7B8D-5C1C-48C0-A20D-33F6F7BA93DF}|Lab1\\Lab1.csproj|solutionrelative:lab1\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 366,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\Lab1\\Lab1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab1\\MainWindow.xaml",
+              "ToolTip": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\Lab1\\Lab1\\MainWindow.xaml",
+              "RelativeToolTip": "Lab1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-31T14:34:49.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\Lab1\\Lab1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab1\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\Lab1\\Lab1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:34:43.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 234,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\Lab1\\Lab1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab1\\MainWindow.xaml",
+              "ToolTip": "G:\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WPF\\Lab1\\Lab1\\MainWindow.xaml",
+              "RelativeToolTip": "Lab1\\MainWindow.xaml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAhwAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T10:42:24.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
